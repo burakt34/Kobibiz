@@ -1,3 +1,70 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.cardbg {
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.10);
+    box-shadow: 0px 8.336px 6.252px 0px rgba(0, 0, 0, 0.05), 0px 1.042px 1.042px 0px rgba(255, 255, 255, 0.25) inset, 0px -1.042px 1.042px 0px rgba(255, 255, 255, 0.10) inset;
+    backdrop-filter: blur(52.10107421875px);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.cardslbg {
+    background: #F5F5F5;
+}
+
+.hbg {
+    background: #072C7D;
+}
+
+.hba {
+    display: flex;
+    height: 64px;
+    padding: 25px 32px 25px 8px;
+    align-items: center;
+    gap: 16px;
+    border-radius: 80px;
+    border: 1px solid #FFF;
+    background: #FFF;
+
+}
+
+.hba p {
+    color: var(--Secondry, #072C7D);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.ft {
+    background: url(../public/images/Component\ 94.jpg);
+    background-position: cover;
+}
+
+/* @media only screen and (min-device-width : 300px) and (max-device-width : 600px){
+    .ft {
+        background: url(../public/images/Component\ 94.jpg);
+        background-w: ;
+        background-position: cover;
+    }
+} */
+
+.fhb {
+    color: var(--Litle-Gray, #B7BCCC);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 24px;
+}
