@@ -1,4 +1,5 @@
 import React from 'react'
+import { Inter } from 'next/font/google'
 import Header from '../Components/Header/Header'
 import TopHomeSection from './TopHomeSection'
 import KobiTesvik from './KobiTesvik'

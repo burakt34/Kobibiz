@@ -20,7 +20,7 @@ const Makaleler = () => {
                     </div>
 
                     <div className='w-full  hidden group-hover:block'>
-                        <p className='text-blue-500 underline flex justify-end'>Detaylı Bilgi</p>
+                        <p className='text-blue-500 underline flex justify-end cursor-pointer'>Detaylı Bilgi</p>
                     </div>
 
                 </div>
@@ -37,7 +37,7 @@ const Makaleler = () => {
                     </div>
 
                     <div className='w-full  hidden group-hover:block'>
-                        <p className='text-blue-500 underline flex justify-end'>Detaylı Bilgi</p>
+                        <p className='text-blue-500 underline flex justify-end cursor-pointer'>Detaylı Bilgi</p>
                     </div>
 
                 </div>
@@ -54,14 +54,14 @@ const Makaleler = () => {
                     </div>
 
                     <div className='w-full  hidden group-hover:block'>
-                        <p className='text-blue-500 underline flex justify-end'>Detaylı Bilgi</p>
+                        <p className='text-blue-500 underline flex justify-end cursor-pointer'>Detaylı Bilgi</p>
                     </div>
 
                 </div>
             </div>
 
 
-            <button className=' bg-white text-blue-700 rounded-full flex py-1 px-2 border border-blue-900 h-[64px] w-[242px] items-center justify-between'>
+            <button className=' bg-white text-[#072C7D] rounded-full flex py-1 px-2 border border-blue-900 h-[64px] w-[242px] items-center justify-between'>
                 <p className='pl-4 text-xl'>Tüm Makaleler</p>
                 <BsFillArrowRightCircleFill className='w-12 h-12' />
             </button>

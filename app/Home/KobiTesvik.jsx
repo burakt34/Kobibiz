@@ -1,12 +1,20 @@
+"use client"
 import React from 'react'
 import { BsFillArrowRightCircleFill } from "react-icons/bs";
 import "../globals.css"
+import StickyNavbar from '../Components/StickyNavbar/StickyNavbar';
 
 
 const KobiTesvik = () => {
     return (
         <div className='relative h-[4000px] md:h-full'>
-            <div className='h-[100vh] sticky top-1'
+
+
+            <div className='absolute w-full top-[-100px] h-full'>
+                <StickyNavbar />
+            </div>
+
+            <div className='h-[100vh] sticky top-0'
                 style={{ background: 'url("../images/image 1687.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
@@ -134,7 +142,7 @@ const KobiTesvik = () => {
             </div>
 
 
-            <div className='h-[100vh] sticky top-1'
+            <div className='h-[100vh] sticky top-0'
                 style={{ background: 'url("../images/image 1693.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
@@ -265,7 +273,7 @@ const KobiTesvik = () => {
 
 
 
-            <div className='h-[100vh] sticky top-1'
+            <div className='h-[100vh] sticky top-0'
                 style={{ background: 'url("../images/image 1681.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
@@ -395,7 +403,7 @@ const KobiTesvik = () => {
 
 
 
-            <div className='h-[100vh] sticky top-1'
+            <div className='h-[100vh] sticky top-0'
                 style={{ background: 'url("../images/image 1689.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
@@ -525,7 +533,7 @@ const KobiTesvik = () => {
 
 
 
-            <div className='h-[100vh] sticky top-1'
+            <div className='h-[100vh] sticky top-0'
                 style={{ background: 'url("../images/image 1688.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
