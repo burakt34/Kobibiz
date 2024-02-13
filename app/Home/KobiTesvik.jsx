@@ -7,7 +7,7 @@ import StickyNavbar from '../Components/StickyNavbar/StickyNavbar';
 
 const KobiTesvik = () => {
     return (
-        <div className='relative h-[4000px] md:h-full'>
+        <div className='relative h-[5000px] md:h-full'>
 
 
             <div className='absolute w-full top-[-100px] h-full'>

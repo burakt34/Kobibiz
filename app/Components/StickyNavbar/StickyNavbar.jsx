@@ -13,7 +13,7 @@ const StickyNavbar = () => {
     return (
         <div className='relative h-full top-0'>
             <nav className="bg-gray-600 bg-opacity-35 text-white py-4 px-6 sticky w-1/2 mx-auto rounded-3xl z-20 top-4">
-                <div className="container mx-auto flex justify-between items-center text-base gap-6">
+                <div className="container mx-auto hidden md:flex justify-between items-center text-base gap-6">
 
                     <Link href="/">
                         <p className="text-lg font-bold">Bussines Doctor</p>

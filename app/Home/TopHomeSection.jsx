@@ -11,8 +11,8 @@ const inter = Inter({ subsets: ['latin'] })
 const TopHomeSection = () => {
     return (
         <div className='min-h-screen '
-        style={{ background: 'url("../../images/Component\ 944.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover", }}>
-            <Header/>
+            style={{ background: 'url("../../images/Component\ 944.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover", }}>
+            <Header />
             <main className={inter.className}>
                 <div className='h-[100vh] text-white md:px-40 pt-20 gap-10 flex flex-col px-4'>
                     <div className='flex flex-col justify-between items-center gap-6'>
@@ -37,8 +37,21 @@ const TopHomeSection = () => {
             </main>
 
 
-            <div className='h-[100vh] bg-htsbg'>
-                
+            <div className='h-[100vh] bg-inherit text-white'>
+                <div className='pl-[282px]'>
+                    <div className='flex flex-col items-center justify-center w-[129px] h-[120px]'>
+                        <div className=''>
+                            <img className='w-[60px] h-[60px] bg-contain rounded-full border-[4px] border-navbg' src="../images/mnph.jpg" />
+                        </div>
+                        <div className='bg-navbg py-3 px-4 rounded-[12px] mt-2'>
+                            <p className='text-center text-[14px]'>
+                                yeni <br /> şirket kuranlar
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
     )
