@@ -15,6 +15,7 @@ module.exports = {
       colors: {
         'navbg': '#072C7D',
         'htsbg': '#0360F5',
+        'topbor':"rgba(255, 255, 255, 0.20)",
       },
     },
   },

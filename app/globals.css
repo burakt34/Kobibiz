@@ -68,3 +68,9 @@
     line-height: normal;
     margin-top: 24px;
 }
+
+.playBtn {
+    border-radius: 104.202px;
+    background: rgba(0, 0, 0, 0.10);
+    backdrop-filter: blur(52.10107421875px);
+}

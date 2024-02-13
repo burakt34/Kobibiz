@@ -2,6 +2,8 @@ import Link from 'next/link'
 import React from 'react'
 import { Inter } from 'next/font/google'
 import Header from '../Components/Header/Header'
+import "../globals.css"
+
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -11,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] })
 const TopHomeSection = () => {
     return (
         <div className='min-h-screen '
-            style={{ background: 'url("../../images/Component\ 944.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover", }}>
+            style={{ background: 'url("../../images/Example.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover", }}>
             <Header />
             <main className={inter.className}>
                 <div className='h-[100vh] text-white md:px-40 pt-20 gap-10 flex flex-col px-4'>
@@ -37,21 +39,61 @@ const TopHomeSection = () => {
             </main>
 
 
-            <div className='h-[100vh] bg-inherit text-white'>
-                <div className='pl-[282px]'>
-                    <div className='flex flex-col items-center justify-center w-[129px] h-[120px]'>
-                        <div className=''>
-                            <img className='w-[60px] h-[60px] bg-contain rounded-full border-[4px] border-navbg' src="../images/mnph.jpg" />
-                        </div>
-                        <div className='bg-navbg py-3 px-4 rounded-[12px] mt-2'>
-                            <p className='text-center text-[14px]'>
-                                yeni <br /> şirket kuranlar
-                            </p>
-                        </div>
+            <div className='min-h-screen bg-inherit text-white md:pb-[200px] border-dashed border-sky-500 border-2 rounded-full'>
+
+                <div className='md:pl-[282px]  flex justify-between md:pr-[333px]'>
+                    <div className='md:mt-[138px]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                    </div>
+
+                    <div className=' md:mt-[206px]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
                     </div>
                 </div>
 
 
+
+                <div className='flex items-center justify-between'>
+
+                    <div className='md:pl-[314px]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                    </div>
+
+                    <div className='flex items-center justify-center border-dashed border-2 border-sky-500 rounded-full w-[600px] h-[600px]'>
+
+                        <div className='flex items-center justify-center border-dashed border-2 border-sky-500 rounded-full w-[400px] h-[400px]'>
+
+                            <div className='flex items-center justify-center relative h-[354px] w-[354px]'>
+                                <img className=' bg-contain border-[10px] rounded-full border-topbor' src="../images/Blog.png" />
+                                <div className='absolute m-auto playBtn'>
+                                    <div className='flex items-center px-3 py-2 gap-4 cursor-pointer'>
+                                        <img className='' src="../images/Frame 1171277411.svg" />
+                                        <p className='text-[20px]'>Hemen İzle</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div className=' md:pr-[180px] md:mt-[47px]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                    </div>
+                </div>
+
+
+                <div className='flex justify-between md:pr-[333px]'>
+                    <div className='md:pl-[236px]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                    </div>
+
+                    <div className=' md:mt-[]'>
+                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                    </div>
+                </div>
             </div>
         </div>
     )

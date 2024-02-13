@@ -14,8 +14,8 @@ const KobiTesvik = () => {
                 <StickyNavbar />
             </div>
 
-            <div className='h-[100vh] sticky top-0'
-                style={{ background: 'url("../images/image 1687.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+            <div className='h-[100vh] sticky top-0 '
+                style={{ background: 'url("../images/1.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
                         <div className='lg:text-8xl font-semibold'>
@@ -143,7 +143,7 @@ const KobiTesvik = () => {
 
 
             <div className='h-[100vh] sticky top-0'
-                style={{ background: 'url("../images/image 1693.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+                style={{ background: 'url("../images/2.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
                         <div className='lg:text-8xl font-semibold'>
@@ -274,7 +274,7 @@ const KobiTesvik = () => {
 
 
             <div className='h-[100vh] sticky top-0'
-                style={{ background: 'url("../images/image 1681.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+                style={{ background: 'url("../images/3.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
                         <div className='lg:text-8xl font-semibold'>
@@ -404,7 +404,7 @@ const KobiTesvik = () => {
 
 
             <div className='h-[100vh] sticky top-0'
-                style={{ background: 'url("../images/image 1689.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+                style={{ background: 'url("../images/4.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
                         <div className='lg:text-8xl font-semibold'>
@@ -534,7 +534,7 @@ const KobiTesvik = () => {
 
 
             <div className='h-[100vh] sticky top-0'
-                style={{ background: 'url("../images/image 1688.jpg")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+                style={{ background: 'url("../images/5.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
                 <div className='md:flex justify-between text-white px-4 md:px-12 h-[100vh] '>
                     <div className='md:w-[545px] my-auto'>
                         <div className='lg:text-8xl font-semibold'>
