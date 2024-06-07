@@ -36,7 +36,7 @@ const TopHomeSection = () => {
                         </button>
                     </div>
                     <div>
-                        <img src="../images/kbbz.jpeg" alt="kbbz" />
+                        <img src="../images/kbbz1.png" alt="kbbz" />
                     </div>
                 </div>
             </main>
