@@ -31,69 +31,67 @@ const TopHomeSection = () => {
                             <Link href="/">Detaylı Bilgi</Link>
                         </button>
 
-                        <button className='bg-inherit hover:bg-blue-700 bg-white text-blue-500 py-4 px-8 rounded-full border border-white text-xl'>
+                        <button className='bg-inherit hover:bg-blue-700 hover:text-white bg-white text-blue-500 py-4 px-8 rounded-full border border-white text-xl'>
                             <Link href="/">Hemen Başla</Link>
                         </button>
                     </div>
                 </div>
             </main>
 
+            <div className=' bg-inherit text-white   p-[150px]'>
+                {/* <div className='relative xl:h-[1100px] border-dashed border-sky-500 border-2 rounded-full'>
+                    <div>
+                        <div className='  flex justify-between md:pr-[333px]'>
+                            <div className=''>
+                                <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                            </div>
 
-            <div className='min-h-screen bg-inherit text-white md:pb-[200px] border-dashed border-sky-500 border-2 rounded-full'>
+                            <div className=''>
+                                <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                            </div>
+                        </div>
 
-                <div className='md:pl-[282px]  flex justify-between md:pr-[333px]'>
-                    <div className='md:mt-[138px]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
+                        <div className='m-auto relative xl:h-[700px] xl:w-[700px] border-dashed border-sky-500 border-2 rounded-full'>
 
-                    <div className=' md:mt-[206px]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
-                </div>
+                            <div className='flex justify-between items-center h-full w-full'>
+                                <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
 
 
-
-                <div className='flex items-center justify-between'>
-
-                    <div className='md:pl-[314px]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
-
-                    <div className='flex items-center justify-center border-dashed border-2 border-sky-500 rounded-full w-[600px] h-[600px]'>
-
-                        <div className='flex items-center justify-center border-dashed border-2 border-sky-500 rounded-full w-[400px] h-[400px]'>
-
-                            <div className='flex items-center justify-center relative h-[354px] w-[354px]'>
-                                <img className=' bg-contain border-[10px] rounded-full border-topbor' src="../images/Blog.png" />
-                                <div className='absolute m-auto playBtn'>
-                                    <div className='flex items-center px-3 py-2 gap-4 cursor-pointer'>
-                                        <img className='' src="../images/Frame 1171277411.svg" />
-                                        <p className='text-[20px]'>Hemen İzle</p>
+                                <div className='flex items-center justify-center'>
+                                    <img className=' bg-contain border-[10px] rounded-full border-topbor' src="../images/Blog.png" />
+                                    <div className='absolute m-auto playBtn'>
+                                        <div className='flex items-center px-3 py-2 gap-4 cursor-pointer'>
+                                            <img className='' src="../images/Frame 1171277411.svg" />
+                                            <p className='text-[20px]'>Hemen İzle</p>
+                                        </div>
                                     </div>
                                 </div>
+
+
+                                <img className=' mt-[150px] bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+
+
+
+                            </div>
+
+
+
+
+
+                        </div>
+
+                        <div className='absolute w-full'>
+                            <div className='flex justify-between w-full'>
+                                <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+                                <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
+
                             </div>
 
                         </div>
 
+
                     </div>
-
-
-
-                    <div className=' md:pr-[180px] md:mt-[47px]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
-                </div>
-
-
-                <div className='flex justify-between md:pr-[333px]'>
-                    <div className='md:pl-[236px]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
-
-                    <div className=' md:mt-[]'>
-                        <img className=' bg-contain  border-navbg' src="../images/Frame 1171277458.svg" />
-                    </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )
