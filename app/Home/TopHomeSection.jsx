@@ -35,6 +35,9 @@ const TopHomeSection = () => {
                             <Link href="/">Hemen Başla</Link>
                         </button>
                     </div>
+                    <div>
+                        <img src="../images/kbbz.jpeg" alt="kbbz" />
+                    </div>
                 </div>
             </main>
 

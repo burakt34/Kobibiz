@@ -44,7 +44,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -69,7 +69,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -94,7 +94,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -120,7 +120,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -172,7 +172,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -197,7 +197,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -222,7 +222,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -248,7 +248,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -303,7 +303,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -328,7 +328,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -353,7 +353,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -379,7 +379,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -433,7 +433,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -458,7 +458,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -483,7 +483,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -509,7 +509,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -563,7 +563,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -588,7 +588,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -613,7 +613,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
@@ -639,7 +639,7 @@ const KobiTesvik = () => {
                                     <p className='text-base'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>
 
                                     <div className=' mt-6'>
-                                        <div className='hidden group-hover:flex justify-between pl-10'>
+                                        <div className='flex justify-between pl-10'>
                                             <button className='bg-white text-blue-700 rounded-full'>
                                                 <p className='p-2'>Detaylı Bilgi Al</p>
                                             </button>
