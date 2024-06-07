@@ -16,7 +16,7 @@ const TopHomeSection = () => {
             style={{ background: 'url("../../images/Example.png")', backgroundRepeat: "no-repeat", backgroundSize: "cover", }}>
             <Header />
             <main className={inter.className}>
-                <div className='h-[100vh] text-white md:px-40 pt-20 gap-10 flex flex-col px-4'>
+                <div className='h-[130vh] text-white md:px-40 pt-20 gap-10 flex flex-col px-4'>
                     <div className='flex flex-col justify-between items-center gap-6'>
                         <div className='flex flex-col justify-center items-center'>
                             <h3 className='text-6xl xl:text-9xl'>Şirketiniz için</h3>
